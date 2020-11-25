@@ -2,7 +2,7 @@
 	"name": "postsourcecontrol",
 	"properties": {
 		"content": {
-			"query": "select @@version as 'p'",
+			"query": "select @@version as 'p'\n\n    ",
 			"metadata": {
 				"language": "sql"
 			},
